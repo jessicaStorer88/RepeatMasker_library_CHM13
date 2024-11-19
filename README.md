@@ -28,7 +28,7 @@ humanAutoXYape.embl --name 'your_favorite_name'<br>
 &nbsp;&nbsp;&nbsp;&nbsp;For additional famdb.py usage, please refer to the Dfam-consortium [FamDB github page](https://github.com/Dfam-consortium/FamDB)
 5. Run RepeatMasker with the appended library
 &nbsp;&nbsp;&nbsp;&nbsp;<br>$ RepeatMasker -libdir ~/TEproject/RMplusSpeciesLib/Libraries/ -s -species
-your_favorite_species yourGenome.fa
+human yourGenome.fa
 
 Please refer to the [RepeatMasker manual](https://www.repeatmasker.org/webrepeatmaskerhelp.html#reading) for additional program settings.
 
