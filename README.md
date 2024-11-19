@@ -6,7 +6,7 @@ http://www.repeatmasker.org
 ```
 The completion of the human genome (T2T-CHM13 project) allowed for a complete repeat analysis of the centromeres and telomeres therein. In order investigate new repetitive elements, a new repeat pipeline was developed (<b>Fig 1</b>)<sup>1</sup>. 
 
-This RepeatMasker-based pipeline was used to generate new models not only the T2T-CHM13 project, but also for the human Y chromosome<sup>2</sup>, the X and Y chromosomes of apes<sup>3</sup>, and ape autosomes<sup>4</sup>. The investigation of these genomes not only allowed for the discovery of novel satellite sequences, but also to update the taxonomic label of select repeats. The repeat library discovered by all of these analyses for investigation of <b>human repeats</b> can be found in this repository. 
+This RepeatMasker-based pipeline was used to generate new models not only the T2T-CHM13 project, but also for the human Y chromosome<sup>2</sup>, the X and Y chromosomes of apes<sup>3</sup>, and ape autosomes<sup>4</sup>. The investigation of these genomes not only allowed for the discovery of novel satellite sequences, but also to update the taxonomic label of select repeats. The combined repeat library discovered by all of these analyses for investigation of <b>human repeats</b> can be found in this repository. 
 
 ![Untitled presentation](https://github.com/user-attachments/assets/e1bf5099-9786-4905-9ccb-598722b9eb25)
 
