@@ -10,16 +10,16 @@ This pipeline was used to generate new models not only the T2T-CHM13 project, bu
 
 ![Untitled presentation](https://github.com/user-attachments/assets/e1bf5099-9786-4905-9ccb-598722b9eb25)
 
-<sub><b> Figure 1 : A discovery workflow afforded comprehensive annotations of a complete human genome as part of Hoyt et al. 2022. </b> Workflow implemented to obtain updated repeat models and teh derivation of RepeatMasker Annoatations 2 (RMv2), consisting of combined and polished RM annotations submitted to Dfam <b> (A) </b> and applied to T2T-CHM13 and GRCh38 as RepeatMaskerv2 tracks. Workflow consisted of multiple iterations of RepeatMasker and RepeatModeler. <b> (A) </b> The components intersected during manual curation <b> (B) </b> include CAT/gene annotations, segmental duplications, repeates masked using DFam (v3.3) repeat models, tandem repeat arrays identified as gaps in annotations >10 kbp and overlap with ULTRA tandem repeat models. <b> (C) </b> Repeat model polishing was derived from a compilation of RepeatMasker output (previous repeat models; HM1) RepeatMasker 2 output (updated models; RM annotation 2), and gap entires. Additional and previously unclassified family entries identified from RMv2 were further filtered following multipel seqence alignment (MSA) among members of the predicted category.</sub>
+<b> Figure 1 : A discovery workflow afforded comprehensive annotations of a complete human genome as part of Hoyt et al. 2022. </b> Workflow implemented to obtain updated repeat models and teh derivation of RepeatMasker Annoatations 2 (RMv2), consisting of combined and polished RM annotations submitted to Dfam <b> (A) </b> and applied to T2T-CHM13 and GRCh38 as RepeatMaskerv2 tracks. Workflow consisted of multiple iterations of RepeatMasker and RepeatModeler. <b> (A) </b> The components intersected during manual curation <b> (B) </b> include CAT/gene annotations, segmental duplications, repeates masked using DFam (v3.3) repeat models, tandem repeat arrays identified as gaps in annotations >10 kbp and overlap with ULTRA tandem repeat models. <b> (C) </b> Repeat model polishing was derived from a compilation of RepeatMasker output (previous repeat models; HM1) RepeatMasker 2 output (updated models; RM annotation 2), and gap entires. Additional and previously unclassified family entries identified from RMv2 were further filtered following multipel seqence alignment (MSA) among members of the predicted category.
 
 
 
 
 
-<p><sub><b>References</b></sub></p>
+<b>References</b>
 
-<p><sub>1. Hoyt, S. J. et al (2022). From telomere to telomere: The transcriptional and epigenetic state of human repeat elements. Science (New York, N.Y.), 376(6588), eabk3112. https://doi.org/10.1126/science.abk3112</sub></p>
-<p><sub>2. Rhie, A. et al (2023). The complete sequence of a human Y chromosome. Nature, 621(7978), 344–354. https://doi.org/10.1038/s41586-023-06457-y</sub></p>
-<p><sub>3. Makova, K. D. et al (2023). The Complete Sequence and Comparative Analysis of Ape Sex Chromosomes. bioRxiv : the preprint server for biology, 2023.11.30.569198. https://doi.org/10.1101/2023.11.30.569198</sub></p>
-<p><sub>4. Yoo, D et al (2024). Complete sequencing of ape genomes. bioRxiv 2024.07.31.605654; doi: https://doi.org/10.1101/2024.07.31.605654</sub></p>
+1. Hoyt, S. J. et al (2022). From telomere to telomere: The transcriptional and epigenetic state of human repeat elements. Science (New York, N.Y.), 376(6588), eabk3112. https://doi.org/10.1126/science.abk3112
+2. Rhie, A. et al (2023). The complete sequence of a human Y chromosome. Nature, 621(7978), 344–354. https://doi.org/10.1038/s41586-023-06457-y
+3. Makova, K. D. et al (2023). The Complete Sequence and Comparative Analysis of Ape Sex Chromosomes. bioRxiv : the preprint server for biology, 2023.11.30.569198. https://doi.org/10.1101/2023.11.30.569198
+4. Yoo, D et al (2024). Complete sequencing of ape genomes. bioRxiv 2024.07.31.605654; doi: https://doi.org/10.1101/2024.07.31.605654
    
