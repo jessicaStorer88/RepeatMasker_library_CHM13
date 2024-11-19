@@ -1,4 +1,4 @@
-# RepeatMasker library : CHM13
+# RepeatMasker library : custom human repeats
 ```
 RepeatMasker was developed by Arian Smit and Robert Hubley
 Please refer to: Smit, AFA, Hubley, R. & Green, P "RepeatMasker" at
